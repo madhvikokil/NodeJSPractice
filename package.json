@@ -1,0 +1,19 @@
+{
+  "name": "nodejspractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Message.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhvikokil/NodeJSPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhvikokil/NodeJSPractice/issues"
+  },
+  "homepage": "https://github.com/madhvikokil/NodeJSPractice#readme"
+}
