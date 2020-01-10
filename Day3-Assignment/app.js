@@ -6,7 +6,7 @@ require('dotenv').config()
 const bodyParser = require("body-parser");
  
 let myDb = "mongodb://localhost/employeeData";
-const port = 8000;
+const port = 8001;
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
